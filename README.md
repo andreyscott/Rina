@@ -7,3 +7,5 @@ Bu sunucu'nun kitlesi neredeyse çok az, aktiflik neredeyse hiç yok. Bu yüzden
 Bir sunucu için gereken her şeyin bir birleşimi denilebilir, ilerleyen zamanlar içerisinde discord/reddit/youtube türü sosyal mecralar hakkında rehberler ve bilgilendirmeler gelebilir, bunları okumak sizin kendi alanınızda ek bir kaynak yardımı sağlar.
 
 Bu depolama alanına kimse yardım etmeği zaman, kendim yazmaya ve düzenlemeye devam ediceğim.
+
+[i don't understand this language] maybe i should google
